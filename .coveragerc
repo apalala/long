@@ -6,7 +6,7 @@ source = long
 
 [paths]
 source =
-    src/
+    long/
     */site-packages/
 
 [report]
