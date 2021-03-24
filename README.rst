@@ -3,16 +3,8 @@ long
 ====
 
 
-Add a short description here!
+An attempt at very long sequences.
 
-
-Description
-===========
-
-A longer description of your project goes here...
-
-
-.. _pyscaffold-notes:
 
 Note
 ====
